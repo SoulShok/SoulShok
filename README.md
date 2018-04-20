@@ -4,7 +4,10 @@ is young Pre-Junior DevOps and multi languages programmer.
 
 ## Contacts
 
-
+github
+linkedin
+telegram
+facebook
 
 ### Markdown
 
