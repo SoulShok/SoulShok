@@ -5,9 +5,10 @@ is young Pre-Junior DevOps and multi languages programmer.
 ## Contacts
 
 github
-linkedin
-telegram
-facebook
+
+[![LinkedIn](./icons/linkedin.png)](https://www.linkedin.com/in/soul-shok/)
+[![LinkedIn](./icons/telegram.png)](https://t.me/soul_shok)
+[![LinkedIn](./icons/facebook.png)](https://www.facebook.com/soule.shok.9)
 
 ### Markdown
 
@@ -40,3 +41,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+###### credits
+
+Social media icons from (freepik)[https://www.flaticon.com/authors/freepik]
